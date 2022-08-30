@@ -1,3 +1,8 @@
+//===========
+// task
+//=== fetch data from external api's and display the data
+
+//==========
 import fetch from "node-fetch";
 
 fetch(

@@ -1,3 +1,9 @@
+//===========
+// task
+//=== add data to firebase collection and update it after 5 seconds using timeOut function
+
+//==========
+
 import { db } from "./config.js";
 import { collection, updateDoc, addDoc, doc } from "firebase/firestore";
 
